@@ -115,9 +115,3 @@ Se você tem uma vaga de Front-end ou quer ver o AgendaPro funcionando por dentr
 - 🌐 [Portfólio](https://tatianeantunes.github.io/portfolio)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tatiane-antunes-devfront-end)
 - ✉️ [antunes.tatiane.s@gmail.com](mailto:antunes.tatiane.s@gmail.com)
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TatianeAntunes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default)
-
-</div>
